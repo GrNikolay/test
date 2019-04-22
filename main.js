@@ -10,3 +10,4 @@ else {
 	sum = 0;
 }
 alert("Общая скидка " + Math.floor(sum) + " у.е.");
+//test
